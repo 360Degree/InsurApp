@@ -1,0 +1,19 @@
+Stage 1:Angular CLI
+
+1. Install node latest version
+2. Install Angular cli -  npm install -g @angular/cli
+3. ng new insurance-app
+4. cd insurance-app
+5. ng serve or npm start ( update package.json --> ng serve -o)
+6. Application Structure and Configuration files
+
+Stage 2 : Git repo integration(Not Mandatory)
+
+1. git clone <git-repo-url>
+2. Copy and paste .git folder to the project root folder
+
+Stage 3 :Components
+
+1.
+
+
